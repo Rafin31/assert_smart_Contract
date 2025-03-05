@@ -433,6 +433,24 @@
 				"inputs": [
 					{
 						"internalType": "address",
+						"name": "recipient",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "transferMintedTokens",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
 						"name": "newOwner",
 						"type": "address"
 					}
@@ -652,11 +670,11 @@
 			]
 		},
 		"contracts/ATToken.sol": {
-			"keccak256": "0x7e76d647bd39fbdc2dc2c3b8354ea6a48f67d3b203afeeeae12ecc3eaa912c6a",
+			"keccak256": "0x56473754c4d549d38690eb7c978fa82ac2bf08df479466833e35d70c29069d92",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2e43fada29135eadbd018445b815bcdc544fbc810d10cf7bc5d4772cb8d97a1b",
-				"dweb:/ipfs/QmP4gMFVKZK4wNUjqJQHSnC9j1vxSoNDNMnkB7h3WqLD1Y"
+				"bzz-raw://4584cdb577ac8b30c7b786e1958dbdc7619bc3079ea0304c48b11bdd9caf7796",
+				"dweb:/ipfs/QmYHqsT8H1yNPbSsYkLZ3MEkbmxweLgZRyk3dkkNPEYimN"
 			]
 		}
 	},

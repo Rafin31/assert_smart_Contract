@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract ATToken is ERC20, Ownable {
     constructor() ERC20("ASSERT Token", "AT") Ownable(msg.sender) {
-        _mint(msg.sender, 100 * 10**decimals()); // Initial supply with 18 decimal point 
+        _mint(msg.sender, 10000 * 10**decimals()); // Initial supply with 18 decimal point 
     }
 
     function mint(address to, uint256 amount) external onlyOwner {

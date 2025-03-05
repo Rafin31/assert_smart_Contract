@@ -652,11 +652,11 @@
 			]
 		},
 		"contracts/ATToken.sol": {
-			"keccak256": "0x02a73ce706fc4825febda3125ab344864fe28d9e827af672b0eae93ce423bbeb",
+			"keccak256": "0x7e76d647bd39fbdc2dc2c3b8354ea6a48f67d3b203afeeeae12ecc3eaa912c6a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1450627b87ede216c87b93e568a009cd7fb7c7c858beb77d4f7ff5e15d991783",
-				"dweb:/ipfs/QmVmy5xaFm3Gu9rKhrySsrUF5cQYTerwfB12BjGZ7BhsPT"
+				"bzz-raw://2e43fada29135eadbd018445b815bcdc544fbc810d10cf7bc5d4772cb8d97a1b",
+				"dweb:/ipfs/QmP4gMFVKZK4wNUjqJQHSnC9j1vxSoNDNMnkB7h3WqLD1Y"
 			]
 		}
 	},

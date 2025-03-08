@@ -25,7 +25,7 @@ contract ATToken is ERC20, Ownable {
         return true;
     }
 
-    function checkBalance(address account) public view returns (uint256) {
+    function checkBalance(address account) public view returns (uint256) { // this is to check balance 
         return balanceOf(account);
     }
 

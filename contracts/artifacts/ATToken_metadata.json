@@ -642,7 +642,7 @@
 		"compilationTarget": {
 			"contracts/ATToken.sol": "ATToken"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
